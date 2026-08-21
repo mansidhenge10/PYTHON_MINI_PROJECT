@@ -40,7 +40,9 @@ These projects represent my progression from **Python fundamentals to practical 
 | 📱 03 | **QR Code Generator**   | Generates QR codes from user-provided text or URLs.               | Python libraries, functions, file generation    |
 | 🏠 04 | **Rent Calculator**     | Calculates and distributes monthly expenses based on user input.  | arithmetic, variables, input, calculations      |
 | ❌ 05  | **Tic Tac Toe**         | Interactive two-player command-line game.                         | lists, functions, loops, conditions, game logic |
+| 📁 06 | **Smart File Organizer** | Automatically organizes files by category, year, and month with duplicate detection and undo support. | `pathlib`, `shutil`, `hashlib`, OOP, file automation |
 
+---
 ---
 
 # 🎮 01. Snake Water Gun
@@ -424,6 +426,5 @@ If you find the repository helpful, consider giving it a ⭐.
 
 **Thanks for visiting! 🐍🚀**
 
----
 
 ### 📌 More Projects Coming Soon...
