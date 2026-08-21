@@ -41,6 +41,7 @@ These projects represent my progression from **Python fundamentals to practical 
 | 🏠 04 | **Rent Calculator**     | Calculates and distributes monthly expenses based on user input.  | arithmetic, variables, input, calculations      |
 | ❌ 05  | **Tic Tac Toe**         | Interactive two-player command-line game.                         | lists, functions, loops, conditions, game logic |
 | 📁 06 | **Smart File Organizer** | Automatically organizes files by category, year, and month with duplicate detection and undo support. | `pathlib`, `shutil`, `hashlib`, OOP, file automation |
+| ⏰ 07 | **Digital Clock** | A real-time digital clock with 12-hour format, AM/PM, current date, and a modern Tkinter GUI. | `tkinter`, `time` |
 
 ---
 ---
@@ -202,6 +203,32 @@ User Input
 * External Libraries
 * Problem Solving
 
+# ⏰ 07. Digital Clock
+
+A Python-based **Digital Clock GUI** built using **Tkinter**.
+
+The application displays the current time in a 12-hour format with AM/PM, along with the current day and date. The clock automatically updates every second.
+
+### Features
+
+* 12-hour time format
+* AM/PM display
+* Current day and date
+* Real-time updates every second
+* Modern dark-themed GUI
+* Simple and user-friendly interface
+
+### Concepts Practiced
+
+```text
+Tkinter GUI
+strftime()
+Functions
+Labels
+Time Formatting
+GUI Layout
+Event Scheduling
+Real-Time Updates
 ---
 
 # 📁 Repository Structure
@@ -223,6 +250,8 @@ Python-Mini-Projects/
 │
 ├── Tic-Tac-Toe/
 │   └── tic_tac_toe.py
+├── Digital-Clock/
+│   └── DIGITAL_CLOCK_PROGRAM.py
 │
 └── README.md
 ```
