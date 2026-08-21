@@ -181,28 +181,6 @@ User Input
 
 ---
 
-# 🛠️ Tech Stack
-
-### Language
-
-🐍 **Python 3**
-
-### Concepts
-
-* Variables & Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Lists
-* Dictionaries
-* Strings
-* Randomization
-* User Input
-* File Handling
-* External Libraries
-* Problem Solving
-
 # ⏰ 07. Digital Clock
 
 A Python-based **Digital Clock GUI** built using **Tkinter**.
@@ -255,7 +233,27 @@ Python-Mini-Projects/
 │
 └── README.md
 ```
+# 🛠️ Tech Stack
 
+### Language
+
+🐍 **Python 3**
+
+### Concepts
+
+* Variables & Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Lists
+* Dictionaries
+* Strings
+* Randomization
+* User Input
+* File Handling
+* External Libraries
+* Problem Solving
 ---
 
 # ⚙️ Getting Started
