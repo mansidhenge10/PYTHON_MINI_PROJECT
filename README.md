@@ -180,6 +180,37 @@ User Input
 ```
 
 ---
+# 📁 06. Smart File Organizer
+
+A Python-based **file management and automation tool** that automatically organizes files into categorized folders based on file type, year, and month.
+
+The application also detects duplicate files using file hashing and provides undo support to safely restore files to their previous locations.
+
+### Features
+
+* Automatic file organization
+* Categorizes files by type
+* Organizes files by year and month
+* Duplicate file detection
+* Hash-based duplicate identification
+* Undo support
+* File movement automation
+* Safe file handling
+
+### Concepts Practiced
+
+```text
+pathlib
+shutil
+hashlib
+OOP
+File Handling
+File Automation
+File Hashing
+Duplicate Detection
+Exception Handling
+Directory Management
+Undo Operations
 
 # ⏰ 07. Digital Clock
 
