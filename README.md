@@ -180,6 +180,7 @@ User Input
 ```
 
 ---
+
 # 📁 06. Smart File Organizer
 
 A Python-based **file management and automation tool** that automatically organizes files into categorized folders based on file type, year, and month.
@@ -211,7 +212,9 @@ Duplicate Detection
 Exception Handling
 Directory Management
 Undo Operations
+```
 
+---
 # ⏰ 07. Digital Clock
 
 A Python-based **Digital Clock GUI** built using **Tkinter**.
@@ -238,6 +241,7 @@ Time Formatting
 GUI Layout
 Event Scheduling
 Real-Time Updates
+---
 ---
 
 # 📁 Repository Structure
