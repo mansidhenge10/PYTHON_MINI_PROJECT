@@ -157,7 +157,6 @@ A command-line implementation of the classic **Tic Tac Toe** game.
 
 Two players take turns placing `X` and `O` on the board, while the program checks for winning combinations.
 
-
 ### Features
 
 * Two-player gameplay
@@ -176,53 +175,6 @@ Conditional Statements
 Game Logic
 User Input
 ```
-
-# 📁 06. Smart File Organizer
-
-A Python-based file automation tool that automatically organizes files into different categories and further arranges them by **Year and Month**.
-
-This project demonstrates how Python can be used to automate file management, detect duplicate files, handle filename conflicts, and maintain organized folder structures.
-
-### Features
-
-* Automatically organizes files
-
-* Categorizes files based on file extension
-
-* Creates Year and Month folders
-
-* Detects duplicate files using SHA-256 hashing
-
-* Handles duplicate filenames automatically
-
-* Supports Undo Last Operation
-
-* Maintains activity logs
-
-* Handles file processing errors
-
-### Concepts Practiced
-
-```text
-Object-Oriented Programming
-
-File Handling
-
-Directory Management
-
-pathlib
-
-shutil
-
-SHA-256 Hashing
-
-Date and Time
-
-Exception Handling
-
-Logging
-
-File Automation
 
 ---
 
@@ -269,15 +221,6 @@ Python-Mini-Projects/
 │
 ├── Tic-Tac-Toe/
 │   └── tic_tac_toe.py
-├── Smart-File-Organizer/
-│   ├── app.py
-│   ├── organizer.py
-│   ├── config.py
-│   ├── logger.py
-│   ├── undo.py
-│   ├── requirements.txt
-│   ├── README.md
-│   └── TEST_FILES/
 │
 └── README.md
 ```
@@ -473,7 +416,14 @@ New projects and improvements will be added as I continue learning and building.
 
 ---
 
+## ⭐ If You Find This Repository Useful
+
+Feel free to explore the projects and check out the code.
+
+If you find the repository helpful, consider giving it a ⭐.
+
+**Thanks for visiting! 🐍🚀**
 
 ---
 
-
+### 📌 More Projects Coming Soon...
