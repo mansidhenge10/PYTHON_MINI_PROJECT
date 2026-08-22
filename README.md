@@ -42,6 +42,7 @@ These projects represent my progression from **Python fundamentals to practical 
 | ❌ 05  | **Tic Tac Toe**         | Interactive two-player command-line game.                         | lists, functions, loops, conditions, game logic |
 | 📁 06 | **Smart File Organizer** | Automatically organizes files by category, year, and month with duplicate detection and undo support. | `pathlib`, `shutil`, `hashlib`, OOP, file automation |
 | ⏰ 07 | **Digital Clock** | A real-time digital clock with 12-hour format, AM/PM, current date, and a modern Tkinter GUI. | `tkinter`, `time` |
+| 🔐 08 | **Password Generator** | Generates secure random passwords using a user-defined length with letters, numbers, and special characters. | `random`, `string` |
 
 ---
 ---
@@ -241,9 +242,29 @@ Time Formatting
 GUI Layout
 Event Scheduling
 Real-Time Updates
----
----
+```
 
+---
+## 🔐 08. Password Generator
+
+A simple **Python-based Password Generator** that creates random and secure passwords based on the length provided by the user.
+
+### ✨ Features
+
+- 🔢 User-defined password length
+- 🔤 Includes uppercase and lowercase letters
+- 🔢 Includes numbers
+- 🔣 Includes special characters
+- 🎲 Uses Python's `random` module
+- 🐍 Uses the built-in `string` module
+
+### 🛠️ Technologies Used
+
+- Python
+- `random`
+- `string`
+---
+---
 # 📁 Repository Structure
 
 ```text
